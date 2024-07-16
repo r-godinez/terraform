@@ -1,8 +1,3 @@
-// https://registry.terraform.io/providers/hashicorp/aws/latest
-
-Run terraform init to download specific version of k8 provider 
-Run terraform plan to display resources to be created & highlight any possible unknown attributes
-
 terraform {
   required_providers {
     kubernetes = {
